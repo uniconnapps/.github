@@ -1,8 +1,9 @@
 # Welcome to Uniconnapps
-Uniconnapps is Rapid Software Development Platform. We help programmers build Demo Applications (POC) without any desired UI/UX.
+Uniconnapps is Rapid Software Development Platform. We help programmers build Demo Applications (POCs) without any desired UI/UX.
 
-# Links
+# Quick Links
 - [Uniconnapps Platform](https://platform.uniconnapps.com/)
+- [Python Starter](https://github.com/uniconnapps/uca-starter-python)
 - [Python Examples](https://github.com/uniconnapps/uca-examples-python)
 - [Website](https://uniconnapps.com)
 - [Linkdin](https://www.linkedin.com/company/uniconnapps/)
