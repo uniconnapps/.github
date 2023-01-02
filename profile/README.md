@@ -7,7 +7,7 @@ Uniconnapps is Rapid Software Development Platform. We help programmers build De
 - [Python Examples](https://github.com/uniconnapps/uca-examples-python)
 - [Discussions](https://github.com/uniconnapps/uniconnapps/discussions)
 - [Website](https://uniconnapps.com)
-- [Linkdin](https://www.linkedin.com/company/uniconnapps/)
+- [Linkedin](https://www.linkedin.com/company/uniconnapps/)
 - [Twitter](https://twitter.com/uniconnapps)
 
 
