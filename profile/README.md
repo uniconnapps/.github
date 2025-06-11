@@ -1,6 +1,7 @@
 # Welcome to Uniconnapps
 
 ### Note: Uniconnapps has reached end of life and is now discontinued.
+### Visit [uniconnapps.com](https://uniconnapps.com) for more details
 
 Uniconnapps is Rapid Software Development Platform. We help programmers build Demo Applications (POCs) without any desired UI/UX.
 
